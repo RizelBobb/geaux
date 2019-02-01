@@ -1,0 +1,16 @@
+.video-main {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  height: 50vh;
+  iframe {
+    height: 50vh;
+    width: 100vh;
+  }
+}
+
+body {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
